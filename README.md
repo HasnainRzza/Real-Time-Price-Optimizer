@@ -77,9 +77,9 @@ This project provides a comprehensive solution for analyzing Amazon metadata in 
 ## Team Members
 # Hasnain Raza
 - (https://www.linkedin.com/in/hasnain-raza-a35780305/)
-# Haider Akbar (22I-1913)
+# Haider Akbar 
 - https://www.linkedin.com/in/muhammad-haider-1t9d1h3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-# Taha Bin Tariq (22I-2014)
+# Taha Bin Tariq 
  
  
 
