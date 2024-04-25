@@ -75,10 +75,12 @@ In addition to local Kafka deployment, the project leverages Kafka clustering th
 This project provides a comprehensive solution for analyzing Amazon metadata in a streaming environment, showcasing proficiency in data preprocessing, streaming pipeline setup, frequent itemset mining, database integration, and automation with a bonus Bash script. It serves as an educational resource for students studying big data processing and streaming analytics, offering hands-on experience with real-world datasets and techniques.
 
 ## Team Members
- Hasnain Raza
+# Hasnain Raza
 - (https://www.linkedin.com/in/hasnain-raza-a35780305/)
- Haider Akbar (22I-1913)
- Taha Bin Tariq (22I-2014)
+# Haider Akbar (22I-1913)
+# Taha Bin Tariq (22I-2014)
+ 
+ 
 
 
 
