@@ -80,6 +80,7 @@ This project provides a comprehensive solution for analyzing Amazon metadata in 
 # Haider Akbar 
 - https://www.linkedin.com/in/muhammad-haider-1t9d1h3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 # Taha Bin Tariq 
+- https://www.linkedin.com/in/taha-bin-tariq-6b1278248?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
  
  
 
